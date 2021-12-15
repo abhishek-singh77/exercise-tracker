@@ -7,7 +7,7 @@ import ExercisesList from "./components/exercises-list.component";
 import EditExercise from "./components/edit-exercise.component";
 import CreateExercise from "./components/create-exercise.component";
 import CreateUser from "./components/create-user.component";
-
+//create user is not working, improve it first then move forward
 function App() {
   return (
     <Router>
